@@ -1,4 +1,4 @@
-describe('User RESTful', () => {
+describe('Developer', () => {
 
   it('Should return a list of users if GET /users"', () => {
 
